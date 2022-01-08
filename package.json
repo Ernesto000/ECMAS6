@@ -1,0 +1,19 @@
+{
+  "name": "ecmas6",
+  "version": "1.0.0",
+  "description": "entendiendo ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernesto000/ECMAS6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ernesto000/ECMAS6/issues"
+  },
+  "homepage": "https://github.com/Ernesto000/ECMAS6#readme"
+}
