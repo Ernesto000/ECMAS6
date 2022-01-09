@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Ernesto000/ECMAS6.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "aaa",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ernesto000/ECMAS6/issues"
   },
-  "homepage": "https://github.com/Ernesto000/ECMAS6#readme"
+  "homepage": "https://github.com/Ernesto000/ECMAS6#readme",
+  "keywords": [
+    "asdfas"
+  ]
 }
